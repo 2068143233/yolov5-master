@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="zaopian">
+    <file>realsmallmap.png</file>
+    <file>smallmap.png</file>
+  </qresource>
+</RCC>
